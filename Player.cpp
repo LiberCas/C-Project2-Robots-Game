@@ -5,6 +5,7 @@ Player::Player(int row, int col, char symbol) {
 	this->row = row;
 	this->col = col;
 	this->symbol = symbol;
+	alive = true;
 }
 
 int Player::getRow() const {
