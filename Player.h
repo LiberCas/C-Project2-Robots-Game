@@ -1,8 +1,5 @@
+#include "Misc.h"
 using namespace std;
-struct Movement
-{
-	int dRow, dCol; // displacement, taking into account the chosen movement
-};
 
 class Player {
 public:
