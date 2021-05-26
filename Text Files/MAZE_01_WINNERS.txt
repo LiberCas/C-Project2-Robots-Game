@@ -1,0 +1,6 @@
+Player          - Time
+----------------------
+Pedro Cruz      -  12
+Lucas Nakajima  -  20
+Joao Costa      -  21
+Igor Liberato   -  41
