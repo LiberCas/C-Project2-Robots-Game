@@ -4,8 +4,8 @@ GROUP MEMBERS:
 -Igor Liberato de Castro
 
 PROGRAM DEVELOPMENT STATE:
--We improved our game by using classes and it's methods to make easier understanding, and also made a new struct called Movement to assign movements on the game. All the objectives were accomplished.
+-We improved our game by using applying Object Oriented Programming ideas, that is, classes and their methods as prescribed. We also created a new struct called Movement to help organise the movements in the game. All the objectives were accomplished whithout any big hurdles.
 
 MAIN DIFFICULTIES:
--We had some difficulties to rewrite the code and adapt it to the new instructions, but we managed it by making a new game and not rewriting the older version, this made our job so much easier.
--The class posts made some parts a little complicated to do, but with some effort we managed everything smoothly.
+-We had some initial difficulties in going through the code and adapting it to the new instructions. Therefore we decided pretty early on to remake the game from scratch taking in mind the new OOP approach requested for this second project rather than adapting the older version, this ended up being the best choice indeed.
+-The class "Posts" posed a few complications, but with some effort we managed everything smoothly.
